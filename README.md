@@ -1,2 +1,2 @@
 <h1>Vitor Gusmão Merlo</h1>
-<p>SSou estudante de Análise e Desenvolvimento de Sistemas, tenho 18 anos, possuo inglês avançado e conhecimentos em Python, C#, JavaScript, TypeScript, HTML, CSS, APIs REST, Git e GitHub. Tenho experiência com desenvolvimento assistido por IA utilizando Cursor e ChatGPT, aplicando engenharia de prompts na criação de aplicações, scripts e automações. Possuo familiaridade com Programação Orientada a Objetos (POO), banco de dados, metodologias ágeis e desenvolvimento de soluções inteligentes, com foco em aprendizado contínuo e resolução de problemas.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas, tenho 18 anos, possuo inglês avançado e conhecimentos em Python, C#, JavaScript, HTML, CSS.</p>
